@@ -6,7 +6,6 @@
 
 using namespace std;
 
-// Курсы валют относительно RUB
 map<string, double> exchange_rates = {
     {"RUB", 1.0},
     {"USD", 0.012},
